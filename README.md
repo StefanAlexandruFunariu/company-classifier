@@ -52,14 +52,16 @@ It was built as part of the **Veridion Machine Learning Challenge**, with scalab
 
 ```
 company_classifier_project/
-├── insurance_classifier.ipynb            # Full notebook with code and explanation
-├── README.md                             # This file
+├── classifier.ipynb                          # Main notebook with full code
+├── README.md                                 # This file
 ├── data/
-│   ├── ml_insurance_challenge.csv        # Input: company data
-│   ├── insurance_taxonomy.xlsx           # Input: insurance taxonomy
-│   └── annotated_company_list.csv        # Output: companies with predicted labels
+│   ├── ml_insurance_challenge.csv            # Input: company data
+│   ├── insurance_taxonomy.xlsx               # Input: insurance taxonomy
+│   └── annotated_company_list.csv            # Output: predictions
 ├── output/
-│   └── insurance_classifier_summary_clean.pdf   # PDF project summary
+│   └── classifier.ipynb                      # Copy of the notebook for output or presentation
+├── Company-Classification-A-Machine-Learning-Approach.pdf   # Presentation (PDF)
+├── Company-Classification-A-Machine-Learning-Approach.pptx  # Presentation (PPTX)
 ```
 
 ---
