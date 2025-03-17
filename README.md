@@ -99,7 +99,7 @@ If you'd like to collaborate or give feedback, feel free to open an issue or con
 ## 👤 Author
 
 **Stefan Alexandru**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out more projects at [GitHub](https://github.com)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/stefan-alexandru-funariu/) or check out more projects at [GitHub](https://github.com/StefanAlexandruFunariu)
 
 ---
 
